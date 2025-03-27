@@ -1,0 +1,1 @@
+This project assumes there exists a venv and associated ipykernel where tensorflow is installed.
